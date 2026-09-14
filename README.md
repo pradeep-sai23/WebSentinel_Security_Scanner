@@ -6,9 +6,6 @@ Python-based web security scanner for detecting potential XSS, SQL injection, di
 
 The project combines URL crawling, vulnerability detection, risk assessment, and automated report generation into a simple security-testing workflow.
 
-> ⚠️ **Disclaimer:** WebSentinel is intended only for authorized security testing, educational labs, and applications you own or have explicit permission to test. Do not use it against systems without authorization.
-
----
 
 ## 🚀 Features
 
